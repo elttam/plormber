@@ -1,0 +1,7 @@
+{
+    "createdBy": {
+        "resetToken": {
+            "startsWith": "{ORM_LEAK}"
+        }
+    }
+}

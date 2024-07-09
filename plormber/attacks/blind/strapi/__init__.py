@@ -1,0 +1,1 @@
+from plormber.attacks.blind.strapi.cve202322894 import StrapiV4Attack, StrapiV3Attack
